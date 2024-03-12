@@ -13,3 +13,8 @@ This file will help one understand the complete logic behind the K-Means cluster
    
 [Presentation for K-Means Clustering](https://docs.google.com/presentation/d/1EjscPPVP_YeI-U3HBQNXvuLLKkZUOuRPdcLpTkl7Wdc/edit?usp=sharing)
 
+## Linear Regression Code from Scratch:
+
+This file will help one understand the complete logic behind Linear Regression. It uses make_blobs from sklearn to create a dataset with k centres. Further uses the algorithm to:
+
+
